@@ -163169,5 +163169,25 @@
         "company_url": "https://simplify.jobs/c/ServiceNow",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ByteDance",
+        "id": "61a548e1-3afc-4fd6-a6f2-b87912103984",
+        "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1740543454,
+        "date_posted": 1740543454,
+        "url": "https://jobs.bytedance.com/en/position/7475507946152331527/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
