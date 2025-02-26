@@ -4,7 +4,7 @@ def filter_lines(input_file, output_file, term="Fall 2025"):
 | Company | Role | Location | Terms | Application/Link | Date Posted |
 | ------- | ---- | -------- | ----- | ---------------- | ----------- |\n""")
         for line in infile:
-            if line.find(term) != -1:
+            if line.find(term) != -1 and line.find("href") != -1:
                 outfile.write(line)
 
 if __name__ == "__main__":
