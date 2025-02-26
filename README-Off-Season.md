@@ -1,45 +1,7 @@
-# Off-Season Tech Internships by Pitt CSC & Simplify
-
-We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Fall 2024, Winter 2025, or Spring 2025**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
-
-:warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
-
-🧠 For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
-
-🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
-
----
-<div align="center">
-	<p>
-		<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
-			<b>Applying to internships?</b>
-			<br>
-			Autofill all your applications in a single click.
-			<br>
-			<div>
-				<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
-          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
-        </a>
-			</div>
-		</a>
-		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
-	</p>
-</div>
-
-## The List 🚴🏔
-
-
- - 🛂 - Does NOT offer Sponsorship
- - 🇺🇸 - Requires U.S. Citizenship
- - 🔒 - Internship application is closed
-
-> **Note**:
-> This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2024 README](./README.md).
-
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Terms | Application/Link | Date Posted |
-| ------- | ---- | -------- | ----- | ---------------- | ----------- |
+| ------- | ---- | -------- | ----- | ---------------- | ----------- ||
 | **[SoFi](https://simplify.jobs/c/SoFi)** | Intern – Credit Risk Analytics | SF | Spring 2025, Summer 2025 | <a href="https://www.sofi.com/careers/sofi-university/6490827003?gh_jid=6490827003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/739c2306-6593-4f74-99be-4bce230d4968?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 25 |
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard)** | Software Intern | Kitchener, ON, Canada | Spring 2025 | <a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Kitchener-Ontario-Canada/Software-Intern_3147665-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7caaefc8-0817-4bcb-af99-75a7b0ad9f58?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 25 |
 | ↳ | Associate Software Developer – Co-op position - HP Anyware Endpoints System Team | Vancouver, BC, Canada | Spring 2025 | <a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---HP-Anyware-Endpoints-System-Team--Co-op-position-_3148264-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f18edb1e-d6eb-48ca-9227-03880ab66f84?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 25 |
